@@ -1,2 +1,2 @@
 # 2025-Graduation-Project
-2025 HYU Computer Software Department Graduation Project
+2025 HANYANG UNIVERSITY DEPARTMENT OF COMPUTER AND SOFTWARE Graduation Project
