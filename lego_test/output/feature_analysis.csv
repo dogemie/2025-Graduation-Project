@@ -1,0 +1,2 @@
+db_path,num_octaves,edge_threshold,peak_threshold,keypoint_avg
+output\database_0.db,6,15,0.0014,4378.37
